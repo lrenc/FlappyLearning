@@ -1,6 +1,8 @@
 # Flappy Learning ([Demo](http://xviniette.github.io/FlappyLearning/))
 
+
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
+
 
 ![alt tag](https://github.com/xviniette/FlappyLearning/blob/gh-pages/img/flappy.png?raw=true)
 
